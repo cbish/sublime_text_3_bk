@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Colorsublime",
+		"Cucumber",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"PackageResourceViewer",
+		"Predawn",
+		"SCSS",
+		"SCSS Compiler",
+		"SideBarEnhancements",
+		"SideBarGit",
+		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"Theme - Flatland",
+		"Theme - Numix",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Theme - Spacegray"
+	]
+}

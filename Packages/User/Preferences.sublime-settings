@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/peacocks-in-space (SL).tmTheme",
+	"draw_white_space": "all",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Flatland Dark.sublime-theme"
+}
