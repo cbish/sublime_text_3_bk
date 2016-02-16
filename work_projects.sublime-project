@@ -3,6 +3,9 @@
 	[
 		{
 			"path": "/Library/WebServer/Documents/ionic_collab"
+		},
+		{
+			"path": "/Library/WebServer/Documents/electron-quick-start"
 		}
 	]
 }

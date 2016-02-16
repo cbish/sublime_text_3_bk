@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"new",
+				"new_nums"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
 				"data",
 				"dataQueue"
 			],
@@ -28,18 +40,10 @@
 	"buffers":
 	[
 		{
-			"file": "/Library/WebServer/Documents/test/test.php",
+			"file": "/Library/WebServer/Documents/playground/playground3.php",
 			"settings":
 			{
-				"buffer_size": 1064,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Library/WebServer/Documents/test/test2.php",
-			"settings":
-			{
-				"buffer_size": 675,
+				"buffer_size": 87,
 				"line_ending": "Unix"
 			}
 		}
@@ -161,14 +165,27 @@
 	},
 	"expanded_folders":
 	[
-		"/Library/WebServer/Documents/test"
+		"/Library/WebServer/Documents/equalizor/js",
+		"/Library/WebServer/Documents/playground"
 	],
 	"file_history":
 	[
+		"/Library/WebServer/Documents/playground/playground2.js",
+		"/Library/WebServer/Documents/playground/playground.html",
+		"/Library/WebServer/Documents/playground/playground2.php",
+		"/Library/WebServer/Documents/playground/playground.php",
+		"/Library/WebServer/Documents/playground/playground.js",
+		"/Library/WebServer/Documents/test/playground2.php",
+		"/Library/WebServer/Documents/test/playground.js",
+		"/Library/WebServer/Documents/test/playground.html",
+		"/Library/WebServer/Documents/test/playground.php",
+		"/Library/WebServer/Documents/test/playground3.php",
+		"/Library/WebServer/Documents/test/test.php",
+		"/Library/WebServer/Documents/test/test.html",
+		"/Users/chris.bishop/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Library/WebServer/Documents/equalizor/js/global.js",
 		"/Library/WebServer/Documents/equalizor/css/global.scss",
 		"/Library/WebServer/Documents/equalizor/index.php",
-		"/Users/chris.bishop/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/chris.bishop/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
 		"/Library/WebServer/Documents/ionic_collab/build/app/components/meeting/accompliceList/userInfoService.coffee",
 		"/Library/WebServer/Documents/ionic_collab/src/app/components/meeting/rightPane/rightPane.html",
@@ -223,6 +240,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"'",
 			"minHeap",
 			"MinHeap",
 			"minHeap",
@@ -277,24 +295,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Library/WebServer/Documents/test/test.php",
+					"file": "/Library/WebServer/Documents/playground/playground3.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1064,
+						"buffer_size": 87,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								87,
+								87
 							]
 						],
 						"settings":
@@ -302,154 +320,63 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"open_with_edit": true,
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Library/WebServer/Documents/test/test2.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 675,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
-							"open_with_edit": true,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -458,11 +385,6 @@
 					"stack_index": 0,
 					"type": "text"
 				}
-			]
-		},
-		{
-			"sheets":
-			[
 			]
 		}
 	],
@@ -483,12 +405,6 @@
 				0,
 				1,
 				1
-			],
-			[
-				0,
-				1,
-				1,
-				2
 			]
 		],
 		"cols":
@@ -499,7 +415,6 @@
 		"rows":
 		[
 			0.0,
-			0.5,
 			1.0
 		]
 	},
@@ -558,7 +473,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
@@ -570,6 +485,6 @@
 	"status_bar_visible": true,
 	"template_settings":
 	{
-		"max_columns": 3
+		"max_columns": 1
 	}
 }
