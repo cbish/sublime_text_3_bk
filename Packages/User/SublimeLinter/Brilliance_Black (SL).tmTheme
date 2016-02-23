@@ -2620,7 +2620,7 @@ meta.property.vendor.microsoft.trident.5 punctuation.terminator.rule</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#EDBA00</string>
+                <string>#DDB700</string>
             </dict>
         </dict><dict>
             <key>name</key>
@@ -2640,7 +2640,7 @@ meta.property.vendor.microsoft.trident.5 punctuation.terminator.rule</string>
             <key>settings</key>
             <dict>
                 <key>foreground</key>
-                <string>#DA2000</string>
+                <string>#D02000</string>
             </dict>
         </dict></array>
 	<key>uuid</key>
